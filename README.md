@@ -7,7 +7,8 @@
   Machine Learning| NLP | Survey Research | Web Development </br>
 </h3>
 
-Hello there! I'm Jhon G. Botello. Welcome to my GitHub treasure trove of repositories! ✨
+Hello there!💻 
+I'm Jhon G. Botello🚀. ✨Welcome to my GitHub treasure trove of repositories!✨
 
 <!--
 Here are some ideas to get you started:
