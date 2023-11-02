@@ -7,9 +7,7 @@
   Machine Learning| NLP | Survey Research | Web Development </br>
 </h3>
 
-<!--
-**jgbotello/jgbotello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Hello there! I'm Jhon G. Botello. Welcome to my GitHub treasure trove of repositories! ✨
 
 <!--
 Here are some ideas to get you started:
