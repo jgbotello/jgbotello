@@ -1,6 +1,17 @@
 
+<p align="center"> <img src="github_logo_colombia.png" alt="github" align="center" width="25%" height="25%"/> </p>
+
+<h3 align="center">Graduate Research Assistant at VMASC-ODU </br>
+  PhD Student in Computer Science at Old Dominion University </br>
+  MS in Industrial Engineering from Universidad del Norte-Colombia </br>
+  Machine Learning| NLP | Survey Research | Web Development </br>
+</h3>
+
+
 **jgbotello/jgbotello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,16 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-<p align="center"> <img src="github_logo_colombia.png" alt="github" align="center" width="25%" height="25%"/> </p>
-
-<h3 align="center">Graduate Research Assistant at VMASC-ODU </br>
-  PhD Student in Computer Science at Old Dominion University </br>
-  MS in Industrial Engineering from Universidad del Norte-Colombia </br>
-  Machine Learning| NLP | Survey Research | Web Development </br>
-</h3>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 
