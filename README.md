@@ -9,7 +9,7 @@
 
 Hello there!💻 
 
-I'm Jhon G. Botello🚀. ✨Welcome to my GitHub treasure trove of repositories!✨
+I'm **Jhon G. Botello**🚀. ✨Welcome to my GitHub treasure trove of repositories!✨
 
 <!--
 Here are some ideas to get you started:
