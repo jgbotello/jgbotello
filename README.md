@@ -1,28 +1,8 @@
+# Hey There!, I'm Jhon
 
-<p align="center"> <img src="github_logo_colombia.png" alt="github" align="center" width="25%" height="25%"/> </p>
-
-<h3 align="center">Graduate Research Assistant at VMASC-ODU </br>
-  PhD Student in Computer Science at Old Dominion University </br>
-  MS in Industrial Engineering from Universidad del Norte-Colombia </br>
-  Machine Learning| NLP | Survey Research | Web Development </br>
-</h3>
-
-Hello there!💻 
-
-I'm **Jhon G. Botello**🚀. ✨Welcome to my GitHub treasure trove of repositories!✨
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦜 Check out more details here: [jhon.page](https://jgbotello.github.io/)
+- 📮 Otherwise, reach out via email.
+- 🌐 I'm also on every other platform on the internet, go find me there.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
