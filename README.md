@@ -1,8 +1,8 @@
 # Hey There!, I'm Jhon
 
-- 🦜 Check out more details here: [jhon.page](https://jgbotello.github.io/)
+- 🦜 Check out more details about me here: [jhon.page](https://jgbotello.github.io/)
 - 📮 Otherwise, reach out via email.
-- 🌐 I'm also on every other platform on the internet, go find me there.
+- 🌐 I'm also on some other platform on the internet, go find me there.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
