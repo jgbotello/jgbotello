@@ -5,17 +5,27 @@
 - 🌐 I'm also on some other platform on the internet, go find me there.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Jhon_gbm12" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Jhon_gbm12" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jhongbotello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jhon-G.-Botello" height="30" width="40" /></a>
+
+<p align="center">
+  
+<a href="https://twitter.com/Jhon_gbm12" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Jhon_gbm12" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/jhongbotello/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jhon-G.-Botello" height="30" width="40" />
+</a>
+
+<a href="https://scholar.google.com/citations?user=x6VeC7sAAAAJ&hl=en" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
+</a>
 
 <a href="https://www.instagram.com/jhon_gbm/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhon_gbm" height="30" width="40" />
 </a>
 
-<a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
-</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
