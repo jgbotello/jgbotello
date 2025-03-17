@@ -1,6 +1,6 @@
 # Hey There!, I'm Jhon
 
-- 🦜 Check out more details about me here: [jhon.page](https://jgbotello.github.io/)
+- 🦁 Check out more details about me here: [jhon.page](https://jgbotello.github.io/)
 - 📮 Otherwise, reach out via email.
 - 🌐 I'm also on some other platform on the internet, go find me there.
 
