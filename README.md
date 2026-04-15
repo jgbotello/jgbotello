@@ -50,7 +50,8 @@ Focused on the intersection of Artificial Intelligence (AI) and Modeling & Simul
 ## 🚀 Current Interests
 
 - Fine-tuning large language models for simulation code generation in System Dynamics and Agent-Based Modeling  
-- Applying AI to analyze and understand complex societal systems  
+- Applying AI to analyze and understand complex societal systems such as migration and human mobility
+- AI agents for supporting decision-making and knowledge discovery in complex systems
 - Dense retrieval and embedding-based methods  
 - Retrieval-Augmented Generation (RAG)  
 - Human–AI interaction in complex systems  
