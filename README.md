@@ -1,20 +1,7 @@
 # Hi, I'm Jhon G. Botello 👋
 
-Ph.D. Student in Computer Science | Graduate Researcher  
-Focused on Artificial Intelligence, Information Retrieval, and the intersection of technology and society.
-
----
-
-## 🔬 About me
-
-I am a Ph.D. student working at the intersection of:
-
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🔎 Information Retrieval & Embeddings  
-- 🧠 Simulation Model Discovery  
-- 🌐 Societal and security implications of AI  
-
-My research explores how AI systems can assist humans in discovering, understanding, and interacting with complex models and data.
+Ph.D. Candidate in Computer Science | Graduate Researcher  
+Focused on the intersection of Artificial Intelligence (AI) and Modeling & Simulation (M&S).
 
 ---
 
@@ -27,8 +14,8 @@ My research explores how AI systems can assist humans in discovering, understand
 
 ## 📫 Contact
 
-- 📧 Email: *(add your email here if you want)*
-- 💼 LinkedIn: https://www.linkedin.com/in/jhongbotello/
+- 📧 Email: *jbote001@odu.edu*
+- 💼 LinkedIn: [https://www.linkedin.com/in/jhongbotello/](https://www.linkedin.com/in/jgbotello/)
 
 ---
 
@@ -62,10 +49,11 @@ My research explores how AI systems can assist humans in discovering, understand
 
 ## 🚀 Current Interests
 
-- Retrieval-Augmented Generation (RAG)
-- Dense Retrieval & Embeddings
-- LLMs for scientific and modeling workflows
-- Human-AI interaction in complex systems
+- Fine-tuning large language models for simulation code generation in System Dynamics and Agent-Based Modeling  
+- Applying AI to analyze and understand complex societal systems  
+- Dense retrieval and embedding-based methods  
+- Retrieval-Augmented Generation (RAG)  
+- Human–AI interaction in complex systems  
 
 ---
 
@@ -73,4 +61,3 @@ My research explores how AI systems can assist humans in discovering, understand
 
 This GitHub contains selected projects, experiments, and research-related work.  
 More structured outputs (papers, publications, and academic content) are available on my website and Google Scholar.
-
