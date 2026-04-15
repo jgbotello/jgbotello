@@ -21,17 +21,7 @@ Focused on the intersection of Artificial Intelligence (AI) and Modeling & Simul
 
 ## 🔗 Connect with me
 
-<p align="left">
-  <a href="https://twitter.com/Jhon_gbm12" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="28"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jhongbotello/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=x6VeC7sAAAAJ&hl=en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="28"/>
-  </a>
-</p>
+<p align="left"><a href="https://twitter.com/Jhon_gbm12" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="28"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jhongbotello/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28"/></a>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=x6VeC7sAAAAJ&hl=en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="28"/></a></p>
 
 ---
 ## ⚙️ Tools & Technologies
